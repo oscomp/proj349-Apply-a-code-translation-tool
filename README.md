@@ -45,13 +45,10 @@
 
 **项目导师：**
 
-    - 高校代表姓名：陈鹏飞
+高校代表姓名：陈鹏飞
+单位：中山大学
+邮箱：chenpf7@mail.sysu.edu.cn
 
-    - 单位：中山大学
-    - 邮箱：chenpf7@mail.sysu.edu.cn
-
-    - 企业代表姓名：曹婉
-
-    - 单位：vivo
-
-    - 邮箱：caowan@vivo.com
+企业代表姓名：曹婉
+单位：vivo
+邮箱：caowan@vivo.com
